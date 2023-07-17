@@ -1,0 +1,4 @@
+.top-panel{
+    -fx-background-color: #65c680;
+    -fx-border-color: linear-gradient(to bottom, #d7a42f, #69c329);
+}
